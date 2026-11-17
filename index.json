@@ -1,0 +1,31 @@
+{
+  "name": "Avatar Safety Tool",
+  "id": "com.avatarslimmer.repo",
+  "author": "bwdwuw-design",
+  "url": "https://bwdwuw-design.github.io/Avatar-Safety-Tool-V3/index.json",
+  "packages": {
+    "com.avatarslimmer.editor": {
+      "versions": {
+        "2.0.0": {
+          "name": "com.avatarslimmer.editor",
+          "displayName": "Avatar Slimmer V2",
+          "version": "2.0.0",
+          "unity": "2022.3",
+          "description": "Slim down VRChat avatars: parts gallery with delete-safety check, texture shrinking, unused blend shape removal, outfit adding and scene backups. Menu: Tools > Avatar Slimmer V2",
+          "author": {
+            "name": "bwdwuw-design",
+            "url": "https://github.com/bwdwuw-design"
+          },
+          "vpmDependencies": {},
+          "keywords": [
+            "vrchat",
+            "avatar",
+            "optimization"
+          ],
+          "url": "https://bwdwuw-design.github.io/Avatar-Safety-Tool-V3/com.avatarslimmer.editor-2.0.0.zip",
+          "zipSHA256": "85f1df43b15d1f9b7b5070895476dfc4bb929e907af716d87bdfd14b29bba502"
+        }
+      }
+    }
+  }
+}
